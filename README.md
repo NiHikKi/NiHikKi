@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NiHikKi, developer from KZ
+- 👀 I’m interested in development with PHP and Rust
+- 🌱 I’m currently learning Rust
